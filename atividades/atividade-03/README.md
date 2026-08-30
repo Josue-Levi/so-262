@@ -1,8 +1,9 @@
 Grupo Atividade_03:
 
-Eduardo de Jesus Torres Souza
-Josué Levi Oliveira Lima
-Pedro Henrique Mauricio Alves
+* Eduardo de Jesus Torres Souza
+* Josué Levi Oliveira Lima
+* Pedro Henrique Mauricio Alves
+
 ------------------------------------
 Atividade proposta:
 Para a especificação do gerenciador de processos de um simulador de sistema operacional, proponho a estruturação de um documento de especificação de projeto.
